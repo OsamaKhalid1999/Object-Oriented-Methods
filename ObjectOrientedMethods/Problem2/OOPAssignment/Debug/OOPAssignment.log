@@ -1,0 +1,12 @@
+﻿  COperations.cpp
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(40,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(150,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(190,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\OOPAssignment\COperations.cpp(272,13): warning C4018: '<': signed/unsigned mismatch
+  CStack.cpp
+  main.cpp
+  Generating Code...
+  OOPAssignment.vcxproj -> C:\Users\Owner\Desktop\OOPAssignment\Debug\OOPAssignment.exe
